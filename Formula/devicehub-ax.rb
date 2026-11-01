@@ -1,9 +1,9 @@
 class DevicehubAx < Formula
   desc "Fold, rotate and tap the iPhone Duo simulator from the command line"
   homepage "https://github.com/hipporasy/devicehub-ax"
-  url "https://github.com/hipporasy/devicehub-ax/releases/download/v0.3.0/ax-macos-universal.zip"
-  version "0.3.0"
-  sha256 "3cdd3b1bb056ff85340137b29bbb208b1e98534d9fd8d0ba83e478f5a7cfcced"
+  url "https://github.com/hipporasy/devicehub-ax/releases/download/v0.4.0/ax-macos-universal.zip"
+  version "0.4.0"
+  sha256 "c954d38342b4b184983d020f9da01807a1d16184ce4ff450000228819e7cc3b0"
   license "MIT"
 
   depends_on :macos
